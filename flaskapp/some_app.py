@@ -144,9 +144,3 @@ def apixml():
  return strfile
 
 
-
-
-
-ergge4w5eyeg1;
-
-
